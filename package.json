@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "echo 'This is a Python-based project. Run: python agent.py'",
     "start": "python agent.py",
+    "build": "echo 'This is a Python-based project. No build step required. Use: python agent.py'",
     "test": "echo 'No tests specified'"
   },
   "keywords": ["ai", "assistant", "jarvis", "livekit"],
