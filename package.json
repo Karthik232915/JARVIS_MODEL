@@ -1,0 +1,16 @@
+{
+  "name": "jarvis-assistant",
+  "version": "1.0.0",
+  "description": "JARVIS AI Assistant project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'This is a Python-based project. Run: python agent.py'",
+    "start": "python agent.py",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": ["ai", "assistant", "jarvis", "livekit"],
+  "author": "Karthik P",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
